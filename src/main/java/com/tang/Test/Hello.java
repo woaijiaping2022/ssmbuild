@@ -11,5 +11,6 @@ public class Hello {
         System.out.println("hello tangzehua");
         System.out.println("zhou tang");
         System.out.println("啊嘛你怎么不理我了现在");
+        System.out.println("肥仔真的只是个玩笑吗？");
     }
 }
