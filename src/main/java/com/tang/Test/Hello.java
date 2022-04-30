@@ -1,5 +1,7 @@
 package com.tang.Test;
 
+import com.mchange.lang.ShortUtils;
+
 public class Hello {
     public static void main(String[] args) {
         System.out.println("爱你");
@@ -7,5 +9,6 @@ public class Hello {
         System.out.println("I Love Luna");
         System.out.println("I Love zhoujiaping");
         System.out.println("tangzehua ai zhoujiaping");
+        System.out.println("hello tangzehua");
     }
 }
