@@ -9,5 +9,6 @@ public class Hello {
         System.out.println("tangzehua ai zhoujiaping");
         System.out.println("hello zhoujiaping");
         System.out.println("hello tangzehua");
+        System.out.println("zhou tang");
     }
 }
